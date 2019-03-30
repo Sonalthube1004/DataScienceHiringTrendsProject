@@ -1,0 +1,7 @@
+dockerhub link---
+https://cloud.docker.com/u/rushali/repository/docker/rushali/datascience
+
+running docker images--
+docker run assignment2-python
+
+docker run 321d8da56a63
